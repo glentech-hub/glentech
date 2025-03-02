@@ -11,7 +11,7 @@ zokou({nomCom:"mustaffa",reaction:"📡",categorie:"IA"},async(dest,zk,commandeO
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("HI IF YOU ARE A GIRL JAMES LOVES YOU👌😘❤️❤️.")}
+    {return repondre("HI IF YOU ARE A GIRL GLEN LOVES YOU👌😘❤️❤️.")}
     //var quest = arg.join(' ');
   try{
     
