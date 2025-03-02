@@ -67,9 +67,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## FINAL` REMARKS `ON MY REPO (STATS)
-
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=glende&repo=glen&show_owner=true&theme=neon)
+## 🩸 NOTE 🩸 please fork the repo click here 👇
+https://github.com/glentech-hub/glentech/fork
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
