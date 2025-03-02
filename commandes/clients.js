@@ -63,7 +63,7 @@ zokou({
   const herokuapi = s.HEROKU_API_KEY;
 
   if (!arg || arg.length !== 1 || !arg[0].includes('=')) {
-    return repondre('Incorrect Usage:\nProvide the key and value correctly.\nExample: setvar OWNER_NAME=Beltah Tech 254');
+    return repondre('Incorrect Usage:\nProvide the key and value correctly.\nExample: setvar OWNER_NAME=glen Tech 254');
   }
 
   const [key, value] = arg[0].split('=');
