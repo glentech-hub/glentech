@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *MUSTAFFA 𝗠𝗗 𝗜𝗡𝗙𝗢* 
+      *𝗚𝗟𝗘𝗡 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢* 
 ❒───────────────────❒
 *𝗚𝗜𝗧𝗛𝗨𝗕 𝗟𝗜𝗡𝗞*
-> https://github.com/Mustaffamkm/MUSTAFFAMK-
+> https://github.com/glentech-hub/glentech
 
 *𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟*
-> https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
+> https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10
 ⁠
 ╭───────────────────❒
-│⏰⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│⚽ *DEV1* : *MUSTAFFA👌*
-│⏰ *DEV2* : *MUSTAFFA*
+│🩸⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│🩸 *DEV1* : *GLEN*
+│
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *MUSTAFFA 𝗧𝗘𝗖𝗛*
+     *𝗚𝗟𝗘𝗡 𝗧𝗘𝗖𝗛*
 
 ❒────────────────────❒`;
 
@@ -123,21 +123,21 @@ const date = moment().format('DD/MM/YYYY');
    *BMW MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Mustaffamkm/MUSTAFFAMK-
+> https://github.com/glentech-hub/glentech
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
+> https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Mustaffa Mk*
+│❒⁠⁠⁠⁠ *DEV* : *glen *
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     𝗚𝗟𝗘𝗡 
 
 ❒────────────────────❒`;
 
