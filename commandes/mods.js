@@ -337,7 +337,7 @@ keith({ nomCom: "save", aliases: ["send", "keep"], categorie: "Mods" }, async (d
       } else if (msgRepondu.stickerMessage) {
         const media = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage);
         const stickerMess = new Sticker(media, {
-          pack: 'ALPHA-MD',
+          pack: 'glen-MD',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
@@ -415,7 +415,7 @@ keith({ nomCom: "save2", aliases: ["send2", "keep2"], categorie: "Mods" }, async
           let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
   
           let stickerMess = new Sticker(media, {
-            pack: 'ALPHA-MD',
+            pack: 'glen-MD',
             type: StickerTypes.CROPPED,
             categories: ["🤩", "🎉"],
             id: "12345",
