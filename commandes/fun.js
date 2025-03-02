@@ -230,15 +230,15 @@ keith({
     const response = await axios.get("https://nekos.life/api/v2/fact");
     const data = response.data;
     const factMessage = `
-┏━━━━ *JAMES-FACT* ━━━━━◆                     
+┏━━━━ *GLEN-FACT* ━━━━━🩸                     
 ┃
 ┃   *◇* ${data.fact} 
 ┃
-┃   *◇* Regards *JAMES MD*
+┃   *◇* Regards *GLEN BOT*
 ┃      
- ╭────────────────◆
- │ *_Powered by JAMES._*
- ╰─────────────────◆
+ ╭────────────────🩸
+ │ *_Powered by elijah._*
+ ╰─────────────────🩸
     `;
 
     await zk.sendMessage(dest, {
@@ -271,16 +271,16 @@ keith({
     const response = await axios.get("https://favqs.com/api/qotd");
     const data = response.data;
     const quoteMessage = `
-┏━━━━━QUOTE━━━━━━◆
+┏━━━━━QUOTE━━━━━━🩸
 ┃   *◇* _${data.quote.body}_
 ┃  
 ┃   *◇* *AUTHOR:* ${data.quote.author}
 ┃      
-┃    *◇*  *regards JAMES MD*
+┃    *◇*  *regards GLEN BOT*
 ┃    
-╭────────────────◆
-│ *_Powered by JAMES._*
-╰─────────────────◆
+╭────────────────🩸
+│ *_Powered by elijah._*
+╰─────────────────🩸
     `;
 
     await zk.sendMessage(dest, {
@@ -347,7 +347,7 @@ keith({
     console.error('Error during prank:', error);
     // Send a more detailed error message
     await zk.sendMessage(dest, {
-      text: `❌ *Error!* Something went wrong. Reason: ${error.message}. Please try again later.`
+      text: `😩 *Error!* Something went wrong. Reason: ${error.message}. Please try again later.`
     });
   }
 });
@@ -378,7 +378,7 @@ keith({
     }
   } catch (error) {
     console.log(error);
-    repondre("❌ *Error!* " + error.message);
+    repondre("😩 *Error!* " + error.message);
   }
 });
 keith({
@@ -407,7 +407,7 @@ keith({
     }
   } catch (error) {
     console.log(error);
-    repondre("❌ *Error!* " + error.message);
+    repondre("😩 *Error!* " + error.message);
   }
 });
 keith({
@@ -435,7 +435,7 @@ keith({
     }
   } catch (error) {
     console.log(error);
-    repondre("❌ *Error!* " + error.message);
+    repondre("😩 *Error!* " + error.message);
   }
 });
 keith({
@@ -464,7 +464,7 @@ keith({
     }
   } catch (error) {
     console.log(error);
-    repondre("❌ *Error!* " + error.message);
+    repondre("😩 *Error!* " + error.message);
   }
 });
 keith({
@@ -493,7 +493,7 @@ keith({
     }
   } catch (error) {
     console.log(error);
-    repondre("❌ *Error!* " + error.message);
+    repondre("😩 *Error!* " + error.message);
   }
 });
 keith({
@@ -522,7 +522,7 @@ keith({
     }
   } catch (error) {
     console.log(error);
-    repondre("❌ *Error!* " + error.message);
+    repondre("😩 *Error!* " + error.message);
   }
 });
 
@@ -552,7 +552,7 @@ keith({
     }
   } catch (error) {
     console.log(error);
-    repondre("❌ *Error!* " + error.message);
+    repondre("😩 *Error!* " + error.message);
   }
 });
 
@@ -587,7 +587,7 @@ keith({
     }
   } catch (error) {
     console.log(error);
-    repondre("❌ *Error!* " + error.message);
+    repondre("😩 *Error!* " + error.message);
   }
 });
 
