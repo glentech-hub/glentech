@@ -1,6 +1,6 @@
-## 𝗪𝗘𝗟𝗖𝗢𝗠E 𝗧𝗢 𝗝𝗔𝗠𝗘𝗦 𝗠𝗗 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
+##  🩸THIS IS GLEN BOT 🩸
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸⃟༑༑𝗝𝗔𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸GLEN🩸+𝗕𝗢𝗧+`)](https://git.io/typing-svg)
 
 <p align="centre"><img src="https://files.catbox.moe/7x56tx.jpg" width="900" height="200" />
 
