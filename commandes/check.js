@@ -32,8 +32,8 @@ zokou({
   const selectedAudio = audioFiles[Math.floor(Math.random() * audioFiles.length)];
 
   // External URLs for references
-  const murl = 'https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H';
-  const img = 'https://files.catbox.moe/eg2cgb.jpg';
+  const murl = 'https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10';
+  const img = 'https://files.catbox.moe/eb57ey.jpg';
 
   // Audio message object
   const audioMessage = {
@@ -46,7 +46,7 @@ zokou({
     fileName: 'shizo',
     contextInfo: {
       externalAdReply: {
-        title: '💀JAMES MD IS ONLINE 💀',
+        title: 'GLEN BOT IS ONLINE ',
         body: 'TAP HERE TO FOLLOW OUR CHANNEL',
         thumbnailUrl: img,
         sourceUrl: murl,
