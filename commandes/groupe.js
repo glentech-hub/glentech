@@ -37,11 +37,11 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   tag +=`
   
 ╭─────────────────━┈⊷ 
-│⛔ 𝐉𝐀𝐌𝐄𝐒 𝐌𝐃 𝐓𝐀𝐆𝐒
+│🩸 𝐆𝐋𝐄𝐍 𝐁𝐎𝐓 𝐓𝐀𝐆𝐒
 ╰─────────────────━┈⊷ \n
-│⭕ *Group* : ${nomGroupe} 
-│⭕ *Hey😀* : *${nomAuteurMessage}* 
-│⭕ *Message* : *${mess}* 
+│🩸 *Group* : ${nomGroupe} 
+│🩸 *Hey❤️* : *${nomAuteurMessage}* 
+│🩸 *Message* : *${mess}* 
 ╰─────────────━┈⊷\n
 \n
 
@@ -666,7 +666,7 @@ zokou({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,command
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'Bmw-mdtag',
+          pack: 'glen-mdtag',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
@@ -732,7 +732,7 @@ zokou({ nomCom: "apk", reaction: "✨", categorie: "Recherche" }, async (dest, z
 
     const downloadLink = appData.dllink;
     const captionText =
-      "『 *Bmw-Md Application* 』\n\n*Name :* " + appData.name +
+      "『 *glen Application* 』\n\n*Name :* " + appData.name +
       "\n*Id :* " + appData["package"] +
       "\n*Last Update :* " + appData.lastup +
       "\n*Size :* " + appData.size +
