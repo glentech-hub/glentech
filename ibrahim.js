@@ -81,7 +81,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['JAMES MD', "safari", "1.0.0"],
+            browser: ['GLEN BOT', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -132,7 +132,7 @@ function getCurrentDateTime() {
 setInterval(async () => {
     if (conf.AUTO_BIO === "yes") {
         const currentDateTime = getCurrentDateTime(); // Get the current date and time
-        const bioText = `💀 𝙸𝙼 𝚃𝙷𝙴 𝙲𝙻𝙰𝙽 𝙹𝙰𝙼𝙴𝚂💀 𝙼𝙴𝙼𝙱𝙴𝚁 𝙽𝙾 𝙲𝙰𝙻𝙻𝚂 𝙰𝙻𝙻𝙾𝚆𝙴𝙳 𝙱𝚄𝙶 𝙼𝙴 𝙳𝙸𝙴 𝙻𝙸𝙻💀 : ${currentDateTime}`; // Format the bio text
+        const bioText = `🩸I AM GLEN BOT : ${currentDateTime}`; // Format the bio text
         await zk.updateProfileStatus(bioText); // Update the bio
         console.log(`Updated Bio: ${bioText}`); // Log the updated bio
     }
@@ -147,13 +147,13 @@ setInterval(async () => {
 
     await zk.rejectCall(callId, callerId);
     await zk.sendMessage(callerId, {
-      text: "*💀𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 𝙳𝙾𝙴𝚂𝙽𝚃 𝙰𝙻𝙻𝙾𝚆 𝙲𝙰𝙻𝙻𝚂 𝚂𝙾 𝚂𝚃𝙾𝙿 𝙲𝙰𝙻𝙻𝙸𝙽𝙶 𝙾𝚁 𝙸 𝚆𝙸𝙻𝙻 𝙱𝙻𝙾𝙲𝙺 𝚈𝙾𝚄 𝙽𝙸𝙶𝙶𝙰💀 .*\n\n> 𝙸𝙼 𝙹𝙰𝙼𝙴𝚂 𝙼𝙳 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝙱𝚈 𝚂𝙸𝚁 𝙹𝙰𝙼𝙴𝚂."
+      text: "*🩸𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 𝙳𝙾𝙴𝚂𝙽𝚃 𝙰𝙻𝙻𝙾𝚆 𝙲𝙰𝙻𝙻𝚂 𝚂𝙾 𝚂𝚃𝙾𝙿 𝙲𝙰𝙻𝙻𝙸𝙽𝙶 𝙾𝚁 𝙸 𝚆𝙸𝙻𝙻 𝙱𝙻𝙾𝙲𝙺 𝚈𝙾𝚄  .*\n\n> I AM GLEN BOT MADE BY GLEN ."
     });
   }
 });
 
         // Default auto-reply message
-let auto_reply_message = "𝙷𝙴𝙻𝙻𝙾 𝙽𝙸𝙶𝙶𝙰 𝙼𝚈 𝙿𝙷𝙾𝙽𝙴 𝙸𝚂 𝙲𝙷𝙰𝚁𝙶𝙸𝙽𝙶 𝚂𝙾 𝙱𝙴 𝙿𝙰𝚃𝙸𝙴𝙽𝚃 𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 𝚆𝙸𝙻𝙻 𝚃𝙴𝚇𝚃 𝚈𝙾𝚄.\n\n> 𝚃𝙷𝙸𝚂 𝙸𝚂 𝙹𝙰𝙼𝙴𝚂 𝙼𝙳 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐣𝐚𝐦𝐞𝐬..";
+let auto_reply_message = "𝙷𝙴𝙻𝙻𝙾 𝙽𝙸𝙶𝙶𝙰 𝙼𝚈 𝙿𝙷𝙾𝙽𝙴 𝙸𝚂 𝙲𝙷𝙰𝚁𝙶𝙸𝙽𝙶 𝚂𝙾 𝙱𝙴 𝙿𝙰𝚃𝙸𝙴𝙽𝚃 𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 𝚆𝙸𝙻𝙻 𝚃𝙴𝚇𝚃 𝚈𝙾𝚄.\n\n> 𝚃𝙷𝙸𝚂 𝙸𝚂 glen bot 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐆𝐋𝐄𝐍 ..";
 
 // Track contacts that have already received the auto-reply
 let repliedContacts = new Set();
@@ -220,7 +220,7 @@ function createNotification(deletedMessage) {
         timeStyle: 'medium',
     }).format(new Date());
 
-    let notification = `*[ 𝐃𝐄𝐋𝐄𝐓𝐄𝐃 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐃𝐈𝐒𝐏𝐋𝐀𝐘𝐄𝐃 𝐁𝐘 💀𝐉𝐀𝐌𝐄𝐒 𝐌𝐃💀 ]*\n\n`;
+    let notification = `*[ 𝐃𝐄𝐋𝐄𝐓𝐄𝐃 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐃𝐈𝐒𝐏𝐋𝐀𝐘𝐄𝐃 𝐁𝐘 🩸𝐆𝐋𝐄𝐍 𝐁𝐎𝐓🩸 ]*\n\n`;
     notification += `*⌚Deletion Time:* ${timeInNairobi}\n`;
     notification += `*👤Deleted By:* @${deletedBy.split('@')[0]}\n\n`;
 
@@ -261,7 +261,7 @@ zk.ev.on("messages.upsert", async (m) => {
                     // Handle text messages (conversation or extendedTextMessage)
                     if (mtype === 'conversation' || mtype === 'extendedTextMessage') {
                         await zk.sendMessage(zk.user.id, {
-                            text: notification + `*Message:* ${deletedMessage.message[mtype].text}\n\n> 𝐈𝐌💀 𝐉𝐀𝐌𝐄𝐒 𝐌𝐃 💀𝐁𝐎𝐓 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐣𝐚𝐦𝐞𝐬.`,
+                            text: notification + `*Message:* ${deletedMessage.message[mtype].text}\n\n> 𝐈𝐌 🩸𝐆𝐋𝐄𝐍 𝐁𝐎𝐓🩸 developed by gen.`,
                             mentions: [deletedMessage.key.participant],
                         });
                     }
@@ -325,7 +325,7 @@ zk.ev.on("messages.upsert", async (m) => {
                     if (deletedMessage.message.conversation) {
                         // Text message
                         await zk.sendMessage(remoteJid, {
-                            text: notification + `*📖Deleted Message:* ${deletedMessage.message.conversation}\n\n> 💀𝐉𝐀𝐌𝐄𝐒 𝐌𝐃💀.`,
+                            text: notification + `*📖Deleted Message:* ${deletedMessage.message.conversation}\n\n> 𝐆𝐋𝐄𝐍 𝐁𝐎𝐓.`,
                             mentions: [deletedMessage.key.participant],
                         });
                     } else if (deletedMessage.message.imageMessage || 
@@ -486,19 +486,19 @@ if (conf.AUTO_REACT_STATUS === "yes") {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '254111385747';
-            const dj2 = '254732297194';
-            const dj3 = "254748851027";
-            const luffy = '254114141192';
+            const dj = '254104882369';
+            const dj2 = '254720254797';
+            const dj3 = "254720254797";
+            const luffy = '254114142192';
             const sudo = await getAllSudoNumbers();
-            let goat = "254732297194";
+            let goat = "254732297394";
             const superUserNumbers = [servBot, goat, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{james-md}...[][]");
+            console.log("\t [][]...{glen-bot}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message sent from : " + nomGroupe);
@@ -581,7 +581,7 @@ function mybotpic() {
             
             };
                  
-// JAMES MD DID EVERYTHING ,,,DO NOT COPY ...
+// GLEN BOT DID EVERYTHING ,,,DO NOT COPY ...
 if (!superUser && origineMessage  === auteurMessage && conf.AUTO_REACT === "yes") {
 const emojis = ['👣', '🏗️', '✈️', '🌽', '🏸', '🛖', '🍁', '🛰️', '🥔', '🎡', '🎸', '🎼', '🔉', '📿', '🪇', '📹', '🎞️', '🪔', '📔', '🏷️', '💰', '📥', '🗳️', '📭', '🖌️', '📏', '', '🪛', '🔨', '⛓️‍💥', '📌', '🗝️', '🔍', '🥁', '🔊', '🥾', '👢', '🩰', '👡', '🙂', '🎊', '🎉', '🎁', '⛑️', '👋']
          const emokis = emojis[Math.floor(Math.random() * (emojis.length))]
@@ -682,7 +682,7 @@ if (ms.message?.imageMessage || ms.message?.audioMessage || ms.message?.videoMes
         // Remove the user from the group and send a notification
         zk.groupParticipantsUpdate(origineMessage, [auteurMessage], "remove").then(() => {
           zk.sendMessage(origineMessage, {
-            text: '@' + auteurMessage.split('@')[0] + " removed by 💀𝐉𝐀𝐌𝐄𝐒 𝐌𝐃💀because of spamming in group",
+            text: '@' + auteurMessage.split('@')[0] + " removed by glen bot because of spamming in group",
             mentions: [auteurMessage]
           });
         }).catch(err => console.log(err));
@@ -935,7 +935,7 @@ if (conf.ANTILINK === "yes") {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'James Md',
+                                        pack: 'glen bot',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -1033,7 +1033,7 @@ if (conf.ANTILINK === "yes") {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'James Md',
+                pack: 'glen bot',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -1314,23 +1314,23 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ James md connecting in your account...");
+                console.log("🩸glen bot connecting in your account...");
             }
             else if (connection === 'open') {
-                console.log("💀James Md connected successfully💀");
+                console.log("🩸glen bot connected successfully🩸");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log(" james-md loading plugins💀\n\n");
+                console.log(" glen bot  loading plugins💀\n\n");
                 //chargement des commandes 
                 console.log("chargement des plugins ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
                             require(__dirname + "/commandes/" + fichier);
-                            console.log(fichier + " Loaded successfully by 💀dev james💀");
+                            console.log(fichier + " Loaded successfully by 🩸dev glen");
                         }
                         catch (e) {
                             console.log(`${fichier} could not be loaded for the following reasons : ${e}`);
@@ -1350,19 +1350,19 @@ zk.ev.on('group-participants.update', async (group) => {
                 else {
                     md = "undefined";
                 }
-                console.log("james md successfully connected💀");
+                console.log("glen bot successfully connected🩸");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg =` C⃟𝚘𝚗𝚗𝚎𝚌𝚝𝚎𝚍 𝚝𝚘 𝙹𝙰𝙼𝙴𝚂 𝙼𝙳
 
- ╭──────────────◆
- │ ©️ ᴘʀᴇғɪx : [ ${prefixe} ]
- │ ©️ ᴍᴏᴅᴇ : ${md}
- │  ©️ᴘʟᴜɢɪɴs : 25000
- │  ©️updates : https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
- ╰───────────────◆
+ ╭──────────────🩸
+ │ 🩸 ᴘʀᴇғɪx : [ ${prefixe} ]
+ │ 🩸ᴍᴏᴅᴇ : ${md}
+ │  🩸ᴘʟᴜɢɪɴs : 25000
+ │  🩸updates : https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10
+ ╰───────────────🩸
 𝙴𝙽𝙹𝙾𝚈 𝙽𝙾𝚆` ;
 
 await zk.groupAcceptInvite("F0x0O4o8reS15D6kVfAChW");  
@@ -1379,7 +1379,7 @@ await zk.groupAcceptInvite("F0x0O4o8reS15D6kVfAChW");
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionLost) {
-                    console.log('connection error💀 ,,𝙹𝙰𝙼𝙴𝚂💀trying to reconnect... ');
+                    console.log('connection error💔,,glen🩸trying to reconnect... ');
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason?.connectionReplaced) {
