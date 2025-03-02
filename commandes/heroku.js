@@ -11,7 +11,7 @@ zokou(
        const {ms,repondre,superUser , arg} = commandeOptions ;
        
        if(!superUser){repondre('only Mods can use this commande');return};
-       if(!arg[0] || !(arg.join('').split('='))) {repondre('Bad format ; Exemple of using :\nSetvar OWNER_NAME=Ibrahim Adams');return};
+       if(!arg[0] || !(arg.join('').split('='))) {repondre('Bad format ; Exemple of using :\nSetvar OWNER_NAME=glentech');return};
      
     const text = arg.join(" ")
      const Heroku = require("heroku-client");
@@ -48,7 +48,7 @@ zokou(
 			let baseURI = "/apps/" + s.HEROKU_APP_NAME;
 
             let h = await heroku.get(baseURI+'/config-vars')
-let str = '*BMW WABOT VARS*\n\n'
+let str = '*glen WABOT VARS*\n\n'
 for (vr in h) {
 str+= '🚘 *'+vr+'* '+'= '+h[vr]+'\n'
 }
