@@ -25,7 +25,7 @@ zokou({ nomCom: "cast",
             await sleep(1500);
             let txt = `*--💞${tlang().title} Broadcast💞--*\n\n *🌹Author:* ${citel.pushName}\n\n${text}`;
             let buttonMessaged = {
-                image: "https://files.catbox.moe/eg2cgb.jpg,"
+                image: "https://files.catbox.moe/eb57ey.jpg,"
                 caption: txt,
                 footer: citel.pushName,
                 headerType: 1,
@@ -35,7 +35,7 @@ zokou({ nomCom: "cast",
                     externalAdReply: {
                         title: 'Broadcast by ' + citel.pushName,
                         body: tlang().title,
-                        thumbnail: "https://files.catbox.moe/eg2cgb.jpg,"
+                        thumbnail: "https://files.catbox.moe/eb57ey.jpg,"
                         mediaUrl: '',
                         mediaType: 2,
                         sourceUrl: gurl,
