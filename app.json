@@ -1,9 +1,9 @@
 {
-  "name":"JAMES-MD",
-  "description":"Best whatsapp bot created by JAMESTECH",
+  "name":"GLEN-BOT",
+  "description":"Best whatsapp bot created by glen",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/eg2cgb.jpg",
-  "repository":"https://github.com/jtech//james",
+  "logo":"https://files.catbox.moe/rx9ww0.jpg",
+  "repository":"https://github.com/glentech-hub/glentech",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -77,14 +77,14 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"JAMES_MD",
+    "value":"Glen-bot",
     "required":false
 
     },
        "BOT_MENU_LINKS" : 
    {
     "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-    "value":"https://files.catbox.moe/eg2cgb.jpg",
+    "value":"https://files.catbox.moe/eb57ey.jpg",
     "required":false
        
      },
@@ -117,14 +117,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "james"
+    "value": "glen"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254785016388"
+    "value": "254104882369"
   },
     "WARN_COUNT":
   {
