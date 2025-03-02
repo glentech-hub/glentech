@@ -35,23 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *JAMES MD IMPORTANT INFO* 
+     * 𝗚𝗟𝗘𝗡 𝗕𝗢𝗧 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/jtechde/james
+> https://github.com/glentech-hub/glentech
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
+> https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *james*
-│❒⁠⁠⁠⁠ *DEV2* : *james*
+│❒⁠⁠⁠⁠ *DEV1* : *glen*
+│❒⁠⁠⁠⁠ *DEV2* : *Elijah*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *james Tech*
+     *glen Tech*
 
 ❒────────────────────❒`;
 
@@ -59,7 +59,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Mustaffamd*, déveloper Mustaffa Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *glenmd*, déveloper glen Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -69,7 +69,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *jamesmd*, déveloper james Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *glenmd*, déveloper glen Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -121,24 +121,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *JAMES MD IMPORTANT INFO* 
+   *𝗚𝗟𝗘𝗡 𝗕𝗢𝗧 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/jtechde/james
+> https://github.com/glentech-hub/glentech
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
+> https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/jtechde/james
+> https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *james tech*
+│❒⁠⁠⁠⁠ *DEV* : *glen tech*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝙟𝙖𝙢𝙚𝙨 𝙩𝙚𝙘𝙝 𝙨𝙘𝙞𝙚𝙣𝙘𝙚
+     𝗚𝗟𝗘𝗡 
 
 ❒────────────────────❒`;
 
