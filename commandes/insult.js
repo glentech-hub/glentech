@@ -28,10 +28,10 @@ D ☞ tiger 🐯 video logo
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "JAMES MD",
+        title: "GLEN BOT",
         body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
-        thumbnailUrl: "https://files.catbox.moe/eg2cgb.jpg",
-        sourceUrl: "https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H",
+        thumbnailUrl: "https://files.catbox.moe/eb57ey.jpg",
+        sourceUrl: "https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
