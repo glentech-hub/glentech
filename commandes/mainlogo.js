@@ -70,10 +70,10 @@ keith({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "💀 𝐉𝐀𝐌𝐄𝐒-𝐌𝐃 💀",
-        body: "Regards, james",
-        thumbnailUrl: "https://files.catbox.moe/eg2cgb.jpg",
-        sourceUrl: "https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H",
+        title: "🩸𝐆𝐋𝐄𝐍 𝐁𝐎𝐓🩸",
+        body: "Regards, 𝐆𝐋𝐄𝐍 ",
+        thumbnailUrl: "https://files.catbox.moe/eb57ey.jpg",
+        sourceUrl: "https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
@@ -258,7 +258,7 @@ keith({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
         if (logoUrl) {
           await zk.sendMessage(dest, {
             image: { url: logoUrl },
-            caption: `*Downloaded by Alpha Md*`,
+            caption: `*Downloaded by glen bot*`,
           }, { quoted: ms });
         }
       }
