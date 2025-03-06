@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
       *𝗚𝗟𝗘𝗡 𝗕𝗢𝗧 𝐈𝐍𝐅𝐎* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/glentech-hub/glentech
+> https://github.com/glentech-hub/GLEN-SIMPLE-BOT
 
 *𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
 > https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10
