@@ -1,13 +1,10 @@
-##  🩸THIS IS GLEN BOT 🩸
+##  THIS IS GLEN BOT
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸GLEN🩸+𝗕𝗢𝗧+`)](https://git.io/typing-svg)
-
-<p align="centre"><img src="https://files.catbox.moe/rx9ww0.jpg" width="900" height="200" />
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`GLEN+BOT+`)](https://git.io/typing-svg)
 
 ## 𝗧𝗛𝗜𝗦 𝗕𝗢𝗧 𝗜𝗦 𝗦𝗔𝗙𝗘 𝗢𝗡 𝗛𝗘𝗥𝗢𝗨𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=🩸+🩸+🩸+🩸+🩸)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=🌍+🌍+🌍+🌍)](https://git.io/typing-svg) 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=𝗚𝗟𝗘𝗡+𝗕𝗢𝗧+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐆𝐋𝐄𝐍)](https://git.io/typing-svg) 
@@ -18,7 +15,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=900&height=60&lines=𝗣𝗥𝗢𝗚𝗥𝗘𝗦𝗦`🩸+𝗙𝗢𝗥+𝗚𝗟𝗘𝗡+𝗕𝗢𝗧+`🩸)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=900&height=60&lines=𝗣𝗥𝗢𝗚𝗥𝗘𝗦𝗦`🌍+𝗙𝗢𝗥+𝗚𝗟𝗘𝗡+𝗕𝗢𝗧+🌍`)](https://git.io/typing-svg) 
 
 
  <p align="center"><img src="https://profile-counter.glitch.me/{GLEN BOT}/count.svg" alt="glen :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mustaffa}/count.svg" /></p>
@@ -31,7 +28,7 @@
 ## ℍ𝕆𝕎 𝕋𝕆 𝔾𝔼𝕋 𝔾𝕃𝔼ℕ 𝔹𝕆𝕋
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗙𝗢𝗥𝗞🩸+𝗔𝗡𝗗`🩸+𝗦𝗧𝗔𝗥`🩸+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
    
@@ -42,7 +39,7 @@
 
  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡`🩸+𝗜𝗗+𝗦𝗜𝗧𝗘`🩸+𝗜𝗦+𝗛𝗘𝗥𝗘`🩸⃟༑༑)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
  
 
 
@@ -62,25 +59,23 @@
  <a href="https://dashboard.heroku.com/new?template=https://github.com/glentech-hub/glentech"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=green&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭`🩸+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭`+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🩸 NOTE 🩸 please fork the repo click here 👇
-https://github.com/glentech-hub/glentech/fork
-
-
+##  NOTE  please fork the repo click here 👇
+<a href="https://github.com/glentech-hub/glentech/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK-GLEN-h?color=black&style=for-the-badge&logo=github" width="240" height="45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## CONTACT`THE OWNER FOR HERE
   DM FOR SERIOUS BUSINESS
 
-   <a href="https://wa.me/message/XKHIKUERYUA2K1"><img title="CONTACT-GLEN" src="https://img.shields.io/badge/CONTACT-GLEN-h?color=black&style=for-the-badge&logo=WhatsApp" width="240" height="45"/></a></p>
+   <a href="https://wa.me/qr/UV4Q3KDKPP67A1"><img title="CONTACT-GLEN" src="https://img.shields.io/badge/CONTACT-GLEN-h?color=black&style=for-the-badge&logo=WhatsApp" width="240" height="45"/></a></p>
 
 ## JOIN CHANNEL
-https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10
-## Lern hot to boost all social media platforms just contact me 🩸
+<a href="https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10"><img title="WACHANNEL" src="https://img.shields.io/badge/CHANNEL-GLEN-h?color=black&style=for-the-badge&logo=WhatsApp" width="240" height="45"/></a></p>
+## Lern hot to boost all social media platforms just contact me ❤️
 
  
 
