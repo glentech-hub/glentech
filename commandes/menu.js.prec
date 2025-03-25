@@ -68,7 +68,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    //  var link = "https://files.catbox.moe/7bvf2w.jpg";
+    //  var link = "https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10";
     var link = s.IMAGE_MENU;
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "by Djalega++" }, { quoted: ms });
@@ -115,7 +115,7 @@ var tt=[]
  async  function execute(dest,zok,commandeOptions?)
   {
 
-    var link = "https://files.catbox.moe/7bvf2w.jpg"
+    var link = "https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10"
     // var listCom =listeCommande()
     let msg= "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n"
 
