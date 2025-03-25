@@ -35,25 +35,25 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     * 𝗚𝗟𝗘𝗡 𝗕𝗢𝗧 IMPORTANT INFO* 
-❒───────────────────❒
+     * GLEN BOT IMPORTANT INFO* 
+★★★★★★★★★★★★★★★★★
 *GITHUB LINK*
 > https://github.com/glentech-hub/GLEN-SIMPLE-BOT
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10
 ⁠
-╭───────────────────❒
-│❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *glen*
-│❒⁠⁠⁠⁠ *DEV2* : *Elijah*
-⁠⁠⁠⁠╰───────────────────❒
+★★★★★★★★★★★★★★★★★
+★ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+★ *DEV1* : *glen*
+★⁠⁠⁠⁠ *DEV2* : *Elijah*
+★★★★★★★★★★★★★★★★★
   `;
     
 let menuMsg = `
      *glen Tech*
 
-❒────────────────────❒`;
+★★★★★★★★★★★★★★★★★`;
 
    var lien = mybotpic();
 
