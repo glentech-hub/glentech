@@ -72,7 +72,7 @@ keith({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
       externalAdReply: {
         title: "🩸𝐆𝐋𝐄𝐍 𝐁𝐎𝐓🩸",
         body: "Regards, 𝐆𝐋𝐄𝐍 ",
-        thumbnailUrl: "https://files.catbox.moe/eb57ey.jpg",
+        thumbnailUrl: "",
         sourceUrl: "https://whatsapp.com/channel/0029Vb7pQWM8kyyIfIMbsQ10",
         mediaType: 1,
         renderLargerThumbnail: true,
